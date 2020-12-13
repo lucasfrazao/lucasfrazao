@@ -7,7 +7,7 @@ My name is Lucas Frazão and I'm front-end developer. I'm passionate about techn
 ### 🧒🏻 More about me
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/) and [React Native](https://reactnative.dev/)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I love cartoon like Rick and Morty
+- ⚡ Fun fact: I love cartoon
 
 ###  📍 Goals for 2021
 - Produce more [Medium](https://lucasfraza0.medium.com/) stories talking about **technology**
