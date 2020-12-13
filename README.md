@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi  🖖🏻 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-fraz%C3%A3o/)](https://www.linkedin.com/in/lucas-fraz%C3%A3o/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://lucasfraza0.medium.com/)](https://lucasfraza0.medium.com/)
 
-<!--
-**lucasfrazao/lucasfrazao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lucas Frazão and I'm front-end developer. I'm passionate about technology and everything in-between.
 
-Here are some ideas to get you started:
+### 🧒🏻 More about me
+- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/) and [React Native](https://reactnative.dev/)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I love cartoon like Rick and Morty
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  📍 Goals for 2021
+- Produce more [Medium](https://lucasfraza0.medium.com/) stories talking about **technology**
+- Improve my [TypeScript](https://www.typescriptlang.org/) Knowledge 
+
+![Lucas Frazao's github stats](https://github-readme-stats.vercel.app/api?username=lucasfrazao&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff")
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfrazao&layout=compact)](https://github.com/lucasfrazao)
