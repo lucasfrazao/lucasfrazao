@@ -1,7 +1,7 @@
 <img src="./profile_img.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Lucas_Frazao_Profile">
 
 <p align="left"> 
-  Olá meu nome é Lucas, sou desenvolvedor de Front-End. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
+  Olá meu nome é Lucas, sou desenvolvedor de Front-End. Estou dedicado a um projeto no momento, mas caso precise ou queira conversar comigo sinta se a vontade.
 </p>
 
 <p align="left">
