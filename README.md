@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> Visual Studio Code, Netlify, Insomnia, Beekeper, Docker, Git e GitHub.</strong>
+  💼 Ferramentas: <strong> Visual Studio Code, Netlify, Insomnia, Beekeeper, Docker, Git e GitHub.</strong>
 </p>
 
 <p align="left">
