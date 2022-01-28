@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> HTML, CSS, JavaScript, ReactJs, VueJs, Bootstrap e Tailwind.</strong>
+  🦄 Linguagens: <strong> HTML, CSS, JavaScript, ReactJs, NextJs, MaterialUI, Bootstrap e Tailwind.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> Visual Studio Code, Netlify, Git e GitHub.</strong>
+  💼 Ferramentas: <strong> Visual Studio Code, Netlify, Insomnia, Beekeper, Docker, Git e GitHub.</strong>
 </p>
 
 <p align="left">
