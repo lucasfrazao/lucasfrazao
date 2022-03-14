@@ -1,4 +1,4 @@
-<img src="./profile_img.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Lucas_Frazao_Profile">
+<img src="./newprofile-img" min-width="400px" max-width="400px" width="400px" align="right" alt="Lucas_Frazao_Profile">
 
 <p align="left"> 
   Olá meu nome é Lucas, sou desenvolvedor de Front-End. Estou dedicado a um projeto no momento, mas caso precise ou queira conversar comigo sinta se a vontade.
