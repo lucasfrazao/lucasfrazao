@@ -1,20 +1,18 @@
-<img src="./newprofile-img.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Lucas_Frazao_Profile">
+<img src="https://ouch-cdn2.icons8.com/CwGqIbLgQtyHp7igvlnwBJsO5gZgWdCmDI5iJzm9aG0/rs:fit:608:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNjkv/YzdjOTUyNDktYjE0/Ny00ZjFiLWFlMGUt/OTM1ZjE4NzEyMTdi/LnBuZw.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Lucas_Frazao_Profile">
+
 
 <p align="left"> 
-  Olá meu nome é Lucas, sou desenvolvedor de Front-End. Estou dedicado a um projeto no momento, mas caso precise ou queira conversar comigo sinta se a vontade.
+  Hi, my name is Lucas Frazão, I'm front end developer. I'm dedicated to a project at the moment but if you need or want to chat me, don't be shy and let's talk 😁.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> HTML, CSS, JavaScript, ReactJs, NextJs, MaterialUI, Bootstrap e Tailwind.</strong>
+  🦄 Stacks: Html, CSS, JavaScript, TypeScript, ReactJs, NextJs, StyledComponents, MaterialUI, Bootstrap and Tailwind.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> Visual Studio Code, Netlify, Insomnia, Beekeeper, Docker, Git e GitHub.</strong>
+  💼 Tools: Visual Studio Code, Vercel, Netlify, Supabase, Insomnia, Beekeeper, Git and other platforms for version control and collaboration.</strong>
 </p>
 
-<p align="left">
-  💌 Se você deseja realizar um projeto comigo, bater um papo ou fazer sugestões, entre em contato comigo: 
-</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-frazaao" alt="Linkedin">
