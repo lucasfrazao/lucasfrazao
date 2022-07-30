@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Stacks: Html, CSS, JavaScript, TypeScript, ReactJs, NextJs, StyledComponents, MaterialUI, Bootstrap and Tailwind.</strong>
+  🦄 Stacks: Html, CSS, JavaScript, TypeScript, ReactJs, NextJs, StyledComponents, Sass, MaterialUI and Tailwind.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: Visual Studio Code, Vercel, Netlify, Supabase, Insomnia, Beekeeper, Git and other platforms for version control and collaboration.</strong>
+  💼 Tools: Visual Studio Code, Vercel, Netlify, Insomnia, Beekeeper, Git and other platforms for version control and collaboration.</strong>
 </p>
 
 
