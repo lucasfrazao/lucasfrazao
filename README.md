@@ -13,6 +13,7 @@ I'm front end developer. I'm dedicated to a project at the moment but if you nee
 <li>Front End Developer at <a href="https://compass.uol/en/home/">Compass UOL</a></li>
 <li>Web Development Student </li>
 <li>Exploring new technologies and developing software solutions.</li>
+<li>Currently, I'm studying and improving my knowledge about NodeJS (Back End).</li>
 </ul>
 
 <h3>Skills</h3>
