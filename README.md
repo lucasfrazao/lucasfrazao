@@ -13,7 +13,7 @@ I'm front end developer. I'm dedicated to a project at the moment but if you nee
 <li>Front End Developer at <a href="https://compass.uol/en/home/">Compass UOL</a></li>
 <li>Web Development Student </li>
 <li>Exploring new technologies and developing software solutions.</li>
-<li>Currently, I'm studying and improving my knowledge about NodeJS (Back End).</li>
+<li>Currently, I'm studying and improving my knowledge about NodeJS and Python.</li>
 </ul>
 
 <h3>Skills</h3>
@@ -33,12 +33,13 @@ I'm front end developer. I'm dedicated to a project at the moment but if you nee
 <h3>Most Used Tools</h3>
 
 <div>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="badge windows" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="badge github"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="badge vercel"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="badge aws"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="badge figma"/>
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="badge vs code"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="badge jira"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="badge vercel"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="badge aws"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="badge figma"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="badge vs code"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="badge jira"/>
 </div>
 
 <br>
