@@ -3,17 +3,17 @@
 <h2>My name is Lucas Frazão</h2>
 
 <p>
-I'm front end developer. I'm dedicated to a project at the moment but if you need or want to chat me, don't be shy and let's talk 😁.
+ I'm on focus in a project at the moment but if you want to chat me, don't be shy and let's talk 😁.
 </p>
 
 <img src="computer.svg" min-width="200px" max-width="200px" width="200px" align="right" alt="Lucas_Frazao_Profile">
 
 <h3>About me</h3>
 <ul align="left" margin-bottom="200px">
-<li>Front End Developer at <a href="https://compass.uol/en/home/">Compass UOL</a></li>
-<li>Web Development Student </li>
+<li>Web Developer at <a href="https://compass.uol/en/home/">Compass UOL</a></li>
+<li>Software engineering student</li>
 <li>Exploring new technologies and developing software solutions.</li>
-<li>Currently, I'm studying and improving my knowledge about NodeJS and Python.</li>
+<li>I've improving my knowledge about JS core e patterns to web development</li>
 </ul>
 
 <h3>Skills</h3>
