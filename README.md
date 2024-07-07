@@ -1,20 +1,14 @@
 <h1>Hi there! 👋</h1>
 
-<h2>My name is Lucas Frazão</h2>
+<img src="computer.svg" min-width="200px" max-width="200px" width="200px" align="right" alt="a man using computer">
 
-<p>
- I'm on focus in a project at the moment but if you want to chat me, don't be shy and let's talk 😁.
-</p>
-
-<img src="computer.svg" min-width="200px" max-width="200px" width="200px" align="right" alt="Lucas_Frazao_Profile">
-
-<h3>About me</h3>
-<ul align="left" margin-bottom="200px">
-<li>Web Developer at <a href="https://compass.uol/en/home/">Compass UOL</a></li>
-<li>Software engineering student</li>
-<li>Exploring new technologies and developing software solutions.</li>
-<li>I've improving my knowledge about JS core e patterns to web development</li>
-</ul>
+<div align="left" margin-bottom="200px">
+ <span>
+ My name is Lucas Frazão, and I'm working as a SWE at <a href="https://compass.uol/en/home/">@Compass UOL</a>.
+ </br>
+   I've been improving my JS core knowledge and architectural patterns for web applications. Recently, I decided to study Go (Golang) and have been doing so.
+ </span>
+</div>
 
 <h3>Skills</h3>
 
