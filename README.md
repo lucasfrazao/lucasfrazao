@@ -4,7 +4,7 @@
 
 <div align="left" margin-bottom="200px">
  <span>
- My name is Lucas Frazão, and I'm working as a SWE at <a href="https://compass.uol/en/home/">@Compass UOL</a>.
+ My name is Lucas Frazão, and I'm working as a SWE at <a href="https://github.com/Kanastra-Tech">Kanastra</a>. 
  </br>
    I've been improving my JS core knowledge and architectural patterns for web applications. Recently, I decided to study Go (Golang) and have been doing so.
  </span>
